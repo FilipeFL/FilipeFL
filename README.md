@@ -1,7 +1,7 @@
 ### Hi there👋
 
 - 🎮 I’m currently working on a game for my undergraduate course
-- 🖥️ I’m currently learning HLSL and ShaderLab with Unity
+- 🖥️ I’m currently learning shader code with Unity
 - 😄 Pronouns: he/him
 
 <div>
