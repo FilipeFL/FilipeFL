@@ -1,6 +1,6 @@
 ### Hi there👋
 
-- 🎮 I’m currently working on a game for my undergraduate course
+- 🎮 I’m currently working on a game that started in my undergraduate course
 - 🖥️ I’m currently learning shader code and C# in Unity
 - 😄 Pronouns: he/him
 
