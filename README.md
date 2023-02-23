@@ -3,16 +3,14 @@
 - 🎮 I’m currently working on a game that started in my undergraduate course
 - 🖥️ I’m currently learning shader code and C# in Unity
 - 😄 Pronouns: he/him
-
-<div>
-  <a href= "https://github.com/FilipeFL">
-    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=FilipeFL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeFL&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Filipe-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Filipe-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+<p align = "left">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=FilipeFL&count_private=true&show_icons=true&theme=dark&line_height=27">
+</p>
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeFL&count_private=true&theme=dark">
+</p>
   
   ##
   
